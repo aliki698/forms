@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(222, 216, 222);
+}
+form{
+    width: 30%;
+    margin: auto;
+}
+input{
+    background-color: antiquewhite;
+    color: rgb(59, 67, 155);
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
